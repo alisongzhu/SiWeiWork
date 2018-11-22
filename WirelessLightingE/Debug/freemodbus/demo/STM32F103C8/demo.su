@@ -1,0 +1,4 @@
+demo.c:55:1:eMBRegInputCB	0	static
+demo.c:83:1:eMBRegHoldingCB	0	static
+demo.c:91:1:eMBRegCoilsCB	0	static
+demo.c:98:1:eMBRegDiscreteCB	0	static

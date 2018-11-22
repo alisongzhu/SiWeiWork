@@ -1,0 +1,7 @@
+iic.c:79:13:iic_Stop	8	static
+iic.c:63:16:iic_Start	8	static
+iic.c:114:9:iic_Wait_ACK	16	static
+iic.c:139:6:iic_Send_Byte	16	static
+iic.c:162:9:iic_Rev_Byte	16	static
+iic.c:183:9:iic_FRAM_BufferWrite	24	static
+iic.c:220:9:iic_FRAM_BufferRead	24	static

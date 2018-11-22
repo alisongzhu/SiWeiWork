@@ -1,0 +1,7 @@
+device.c:61:6:RandomDelay	32	static
+device.c:81:6:WirelessModuleConfig	0	static
+device.c:148:6:E32_Moudle_Config	32	static
+device.c:202:9:pvScanInternalDiscrete	16	static
+device.c:229:6:DeviceInit	120	static
+device.c:283:6:DataStreamPrecessing	32	static
+device.c:376:6:HAL_UART_TxCpltCallback	0	static

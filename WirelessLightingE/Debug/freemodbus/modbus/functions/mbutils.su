@@ -1,0 +1,3 @@
+mbutils.c:47:1:xMBUtilSetBits	20	static
+mbutils.c:86:1:xMBUtilGetBits	8	static
+mbutils.c:117:1:prveMBError2Exception	0	static

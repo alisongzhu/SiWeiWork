@@ -1,0 +1,8 @@
+WirelessNetwork.c:62:6:WirelessSend	16	static
+WirelessNetwork.c:70:9:Router_List_Addr_Add	24	static
+WirelessNetwork.c:110:9:Router_List_Addr_Find	0	static
+WirelessNetwork.c:128:6:DataDistributionToChilds	24	static
+WirelessNetwork.c:150:9:Router_List_Addr_Delete	8	static
+WirelessNetwork.c:174:9:Router_List_HeartBeat_Flash	8	static
+WirelessNetwork.c:197:9:HeartBeat_Poll	24	static
+WirelessNetwork.c:253:15:WPAN_Startup	40	static

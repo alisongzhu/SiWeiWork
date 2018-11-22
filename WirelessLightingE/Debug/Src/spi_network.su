@@ -1,0 +1,5 @@
+spi_network.c:450:20:RN8302_WriteReg	64	static
+spi_network.c:524:20:RN8302_ReadReg.part.0	64	static
+spi_network.c:286:6:RN8302SpiScanData	64	static
+spi_network.c:610:6:RN8302_Init	32	static
+spi_network.c:802:6:ParameterVerification	80	static

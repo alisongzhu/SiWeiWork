@@ -1,0 +1,2 @@
+flash.c:37:6:save_config	40	static
+flash.c:76:6:load_configuration	0	static
