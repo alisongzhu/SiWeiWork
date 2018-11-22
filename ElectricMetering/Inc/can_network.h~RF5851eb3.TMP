@@ -1,0 +1,13 @@
+/*
+ * can_proto.c
+ *
+ *  Created on: Dec 7, 2017
+ *      Author: PT
+ */
+ 
+#ifndef INC_CAN_NETWORK_H_
+#include <stdlib.h>
+
+void CanNetwork_init(void);
+extern void prvvDataTxFrame(uint8 Addr,uint8_t Cmd, float Data);
+#endif /* INC_CAN_NETWORK_H_ */

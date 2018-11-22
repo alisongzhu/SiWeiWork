@@ -1,0 +1,13 @@
+/*
+ * can_proto.c
+ *
+ *  Created on: Dec 7, 2017
+ *      Author: PT
+ */
+ 
+#ifndef INC_CAN_NETWORK_H_
+#define INC_CAN_NETWORK_H_
+
+
+void CanNetwork_Init(void);
+#endif /* INC_CAN_NETWORK_H_ */

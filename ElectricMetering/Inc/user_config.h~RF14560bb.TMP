@@ -1,0 +1,15 @@
+/*
+ * can_proto.c
+ *
+ *  Created on: Dec 7, 2017
+ *      Author: PT
+ */
+ 
+#ifndef INC_USER_CONFIG_H_
+#define INC_USER_CONFIG_H_
+
+extern   osThreadId taskUserConfigHandle;
+
+void UserConfig_Init(void);
+
+#endif /* INC_USER_CONFIG_H_ */

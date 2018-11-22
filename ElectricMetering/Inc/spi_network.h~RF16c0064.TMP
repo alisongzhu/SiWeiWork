@@ -1,0 +1,16 @@
+/*
+ * can_proto.c
+ *
+ *  Created on: Dec 7, 2017
+ *      Author: PT
+ */
+ 
+#ifndef INC_SPI_NETWORK_H_
+#define INC_SPI_NETWORK_H_
+
+#include "cmsis_os.h"
+
+extern osThreadId taskSPIScanHandle; 
+
+void SPINetwork_Init(void);
+#endif /* INC_SPI_NETWORK_H_ */
