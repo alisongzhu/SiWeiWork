@@ -1,0 +1,33 @@
+#this file is used for zephyr sanity tests.
+# Get more info in subsystems/Testing/zephyr sanity tests documentation.
+
+# a string matches how the board is defined in the build system.
+# This same string is used when building,
+# for example when calling ‘cmake’:  # cmake -DBOARD=quark_d2000_crb ..
+identifier: syslight_gw_stm32
+
+# The actual name of the board as it appears in marketing material.
+name: syslight gateway with stm32f103c8t6 mcu
+
+# Type of the board or conﬁguration, currently we support 2 types: mcu, qemu
+type: mcu
+
+# Architecture of the board
+arch: arm
+
+# The list of supported toolchains that can build this board.
+# This should match one of the values used for ‘ZEPHYR_TOOLCHAIN_VARIANT’ 
+# when building on the command line
+toolchain:
+  - zephyr
+  - gnuarmemb
+
+# Available RAM on the board (speciﬁed in KB). 
+# This is used to match testcase requirements.
+# If not speciﬁed we default to 128KB.
+ram: 20
+
+# Available FLASH on the board (speciﬁed in KB). 
+# This is used to match testcase requirements.
+# If not speciﬁed we default to 512KB.
+flsh: 64
