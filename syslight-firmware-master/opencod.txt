@@ -1,2 +1,0 @@
-cmake -GNinja -DBOARD=efr32_slwstk6061a -DOPENOCD=/usr/local/bin/openocd -DOPENOCD_DEFAULT_PATH=/usr/local/share/openocd/scripts ..
-ninja flash
