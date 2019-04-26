@@ -1,0 +1,5 @@
+*.o
+*.a
+/Debug/
+/Release/
+/.settings/
