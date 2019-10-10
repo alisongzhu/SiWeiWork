@@ -1,0 +1,1303 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-exit.o)
+                              d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (exit)
+d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-impure.o)
+                              d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-exit.o) (_global_impure_ptr)
+d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-init.o)
+                              d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (__libc_init_array)
+d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-memcpy-stub.o)
+                              ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin) (memcpy)
+d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-memset.o)
+                              d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (memset)
+d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-strlen.o)
+                              ./freertos-code/FreeRTOS-Plus/Source/FreeRTOS-Plus-CLI/FreeRTOS_CLI.o (symbol from plugin) (strlen)
+d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-strncmp.o)
+                              ./freertos-code/FreeRTOS-Plus/Source/FreeRTOS-Plus-CLI/FreeRTOS_CLI.o (symbol from plugin) (strncmp)
+d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-strncpy.o)
+                              ./freertos-code/FreeRTOS-Plus/Source/FreeRTOS-Plus-CLI/FreeRTOS_CLI.o (symbol from plugin) (strncpy)
+
+Allocating common symbols
+Common symbol       size              file
+
+defaultTaskHandle   0x4               ./Core/Src/freertos.o (symbol from plugin)
+uwTick              0x4               ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o (symbol from plugin)
+xQueueRegistry      0x40              ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+pFlash              0x20              ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.o (symbol from plugin)
+htim1               0x40              ./Core/Src/stm32f1xx_hal_timebase_TIM.o (symbol from plugin)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crti.o
+ .data          0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crti.o
+ .bss           0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crti.o
+ .data          0x00000000        0x4 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+ .text          0x00000000       0x74 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .data          0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .bss           0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.extab     0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .text          0x00000000        0x0 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .data          0x00000000        0x0 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .bss.uwTick    0x00000000        0x4 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .text          0x00000000       0x14 ./startup_stm32f103xb.o
+ .data          0x00000000        0x0 ./startup_stm32f103xb.o
+ .bss           0x00000000        0x0 ./startup_stm32f103xb.o
+ .text          0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x28 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2d d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000       0x60 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x2d d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-memcpy-stub.o)
+ .text.memcpy   0x00000000       0x16 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00000000       0x28 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000000       0x2d d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-memcpy-stub.o)
+ .text          0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-memset.o)
+ .text          0x00000000       0x10 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-strlen.o)
+ .data          0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000000       0x17 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-strncmp.o)
+ .data          0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-strncmp.o)
+ .bss           0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-strncmp.o)
+ .text.strncmp  0x00000000       0x24 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-strncmp.o)
+ .debug_frame   0x00000000       0x28 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-strncmp.o)
+ .ARM.attributes
+                0x00000000       0x2d d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-strncmp.o)
+ .text          0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-strncpy.o)
+ .data          0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-strncpy.o)
+ .bss           0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-strncpy.o)
+ .text.strncpy  0x00000000       0x2a d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-strncpy.o)
+ .debug_frame   0x00000000       0x2c d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-strncpy.o)
+ .ARM.attributes
+                0x00000000       0x2d d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-strncpy.o)
+ .text          0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtend.o
+ .data          0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtend.o
+ .bss           0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtend.o
+ .eh_frame      0x00000000        0x4 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtend.o
+ .ARM.attributes
+                0x00000000       0x2d d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtend.o
+ .text          0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtn.o
+ .data          0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtn.o
+ .bss           0x00000000        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00005000         xrw
+FLASH            0x08000000         0x00010000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crti.o
+LOAD d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+LOAD d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+LOAD C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+LOAD ./startup_stm32f103xb.o
+LOAD d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libstdc++_nano.a
+LOAD d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libm.a
+START GROUP
+LOAD d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m\libgcc.a
+LOAD d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a
+LOAD d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a
+END GROUP
+START GROUP
+LOAD d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m\libgcc.a
+LOAD d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a
+END GROUP
+LOAD d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtend.o
+LOAD d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtn.o
+                0x20005000                _estack = 0x20005000
+                0x00000200                _Min_Heap_Size = 0x200
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x10c
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x10c ./startup_stm32f103xb.o
+                0x08000000                g_pfnVectors
+                0x0800010c                . = ALIGN (0x4)
+
+.text           0x0800010c     0x1094
+                0x0800010c                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0800010c       0x40 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+ *(.text*)
+ .text.prvTaskExitError
+                0x0800014c       0x40 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .text.NVIC_EncodePriority.constprop.26
+                0x0800018c       0x2c C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .text.LL_APB2_GRP1_EnableClock
+                0x080001b8       0x1c C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .text.vPortFree.part.0
+                0x080001d4       0x12 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ *fill*         0x080001e6        0x2 
+ .text.unlikely.prvResetNextTaskUnblockTime
+                0x080001e8       0x24 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .text.uxListRemove
+                0x0800020c       0x22 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .text.unlikely.vListInsert
+                0x0800022e       0x2e C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .text.vListInsertEnd
+                0x0800025c       0x18 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .text.vPortExitCritical
+                0x08000274       0x28 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .text.vPortEnterCritical
+                0x0800029c       0x38 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .text.xTaskResumeAll
+                0x080002d4      0x1f4 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .text.unlikely.prvPortStartFirstTask
+                0x080004c8       0x20 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .text.unlikely.prvInsertBlockIntoFreeList
+                0x080004e8       0x48 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .text.vPortFree
+                0x08000530       0x60 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .text.prvIdleTask
+                0x08000590       0x6c C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .text.pvPortMalloc
+                0x080005fc      0x120 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .text.xTaskCreate.constprop.27
+                0x0800071c      0x1f8 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .text.HAL_NVIC_SetPriority.constprop.24
+                0x08000914       0x38 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .text.StartDefaultTask
+                0x0800094c       0xa4 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .text.LL_GPIO_SetPinMode.lto_priv.32
+                0x080009f0       0x2e C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .text.LL_GPIO_Init
+                0x08000a1e       0xd2 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .text.SystemInit
+                0x08000af0       0x4c C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+                0x08000af0                SystemInit
+ .text.startup.main
+                0x08000b3c      0x5a8 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+                0x08000b3c                main
+ .text.Reset_Handler
+                0x080010e4       0x48 ./startup_stm32f103xb.o
+                0x080010e4                Reset_Handler
+ .text.Default_Handler
+                0x0800112c        0x2 ./startup_stm32f103xb.o
+                0x0800112c                RTC_Alarm_IRQHandler
+                0x0800112c                EXTI2_IRQHandler
+                0x0800112c                DebugMon_Handler
+                0x0800112c                TIM1_CC_IRQHandler
+                0x0800112c                HardFault_Handler
+                0x0800112c                SysTick_Handler
+                0x0800112c                PVD_IRQHandler
+                0x0800112c                PendSV_Handler
+                0x0800112c                NMI_Handler
+                0x0800112c                EXTI3_IRQHandler
+                0x0800112c                EXTI0_IRQHandler
+                0x0800112c                I2C2_EV_IRQHandler
+                0x0800112c                UsageFault_Handler
+                0x0800112c                ADC1_2_IRQHandler
+                0x0800112c                SPI1_IRQHandler
+                0x0800112c                TAMPER_IRQHandler
+                0x0800112c                DMA1_Channel4_IRQHandler
+                0x0800112c                USART3_IRQHandler
+                0x0800112c                RTC_IRQHandler
+                0x0800112c                DMA1_Channel7_IRQHandler
+                0x0800112c                CAN1_RX1_IRQHandler
+                0x0800112c                TIM4_IRQHandler
+                0x0800112c                I2C1_EV_IRQHandler
+                0x0800112c                DMA1_Channel6_IRQHandler
+                0x0800112c                TIM3_IRQHandler
+                0x0800112c                RCC_IRQHandler
+                0x0800112c                TIM1_TRG_COM_IRQHandler
+                0x0800112c                DMA1_Channel1_IRQHandler
+                0x0800112c                Default_Handler
+                0x0800112c                EXTI15_10_IRQHandler
+                0x0800112c                EXTI9_5_IRQHandler
+                0x0800112c                SPI2_IRQHandler
+                0x0800112c                MemManage_Handler
+                0x0800112c                SVC_Handler
+                0x0800112c                DMA1_Channel5_IRQHandler
+                0x0800112c                EXTI4_IRQHandler
+                0x0800112c                USB_LP_CAN1_RX0_IRQHandler
+                0x0800112c                USB_HP_CAN1_TX_IRQHandler
+                0x0800112c                DMA1_Channel3_IRQHandler
+                0x0800112c                TIM1_UP_IRQHandler
+                0x0800112c                WWDG_IRQHandler
+                0x0800112c                TIM2_IRQHandler
+                0x0800112c                TIM1_BRK_IRQHandler
+                0x0800112c                EXTI1_IRQHandler
+                0x0800112c                USART2_IRQHandler
+                0x0800112c                I2C2_ER_IRQHandler
+                0x0800112c                DMA1_Channel2_IRQHandler
+                0x0800112c                CAN1_SCE_IRQHandler
+                0x0800112c                FLASH_IRQHandler
+                0x0800112c                BusFault_Handler
+                0x0800112c                USART1_IRQHandler
+                0x0800112c                I2C1_ER_IRQHandler
+                0x0800112c                USBWakeUp_IRQHandler
+ *fill*         0x0800112e        0x2 
+ .text.__libc_init_array
+                0x08001130       0x48 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-init.o)
+                0x08001130                __libc_init_array
+ .text.memset   0x08001178       0x10 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-memset.o)
+                0x08001178                memset
+ *(.glue_7)
+ .glue_7        0x08001188        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08001188        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x08001188        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+ *(.init)
+ .init          0x08001188        0x4 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crti.o
+                0x08001188                _init
+ .init          0x0800118c        0x8 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtn.o
+ *(.fini)
+ .fini          0x08001194        0x4 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crti.o
+                0x08001194                _fini
+ .fini          0x08001198        0x8 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtn.o
+                0x080011a0                . = ALIGN (0x4)
+                0x080011a0                _etext = .
+
+.vfp11_veneer   0x080011a0        0x0
+ .vfp11_veneer  0x080011a0        0x0 linker stubs
+
+.v4_bx          0x080011a0        0x0
+ .v4_bx         0x080011a0        0x0 linker stubs
+
+.iplt           0x080011a0        0x0
+ .iplt          0x080011a0        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+
+.rodata         0x080011a0       0x1c
+                0x080011a0                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.APBPrescTable
+                0x080011a0        0x8 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .rodata.main.str1.1
+                0x080011a8       0x11 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+                0x080011bc                . = ALIGN (0x4)
+ *fill*         0x080011b9        0x3 
+
+.rel.dyn        0x080011bc        0x0
+ .rel.iplt      0x080011bc        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x080011bc        0x0
+                0x080011bc                __exidx_start = .
+ *(.ARM.exidx*)
+                0x080011bc                __exidx_end = .
+
+.preinit_array  0x080011bc        0x0
+                0x080011bc                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x080011bc                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x080011bc        0x4
+                0x080011bc                PROVIDE (__init_array_start, .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x080011bc        0x4 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+                0x080011c0                PROVIDE (__init_array_end, .)
+
+.fini_array     0x080011c0        0x4
+                [!provide]                PROVIDE (__fini_array_start, .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x080011c0        0x4 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+                [!provide]                PROVIDE (__fini_array_end, .)
+                0x080011c4                _sidata = LOADADDR (.data)
+
+.data           0x20000000        0x8 load address 0x080011c4
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.SystemCoreClock
+                0x20000000        0x4 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .data.uxCriticalNesting
+                0x20000004        0x4 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+                0x20000008                . = ALIGN (0x4)
+                0x20000008                _edata = .
+
+.igot.plt       0x20000008        0x0 load address 0x080011cc
+ .igot.plt      0x20000008        0x0 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+                0x20000008                . = ALIGN (0x4)
+
+.bss            0x20000008     0x29a4 load address 0x080011cc
+                0x20000008                _sbss = .
+                0x20000008                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000008       0x1c d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+ *(.bss*)
+ .bss.htim1     0x20000024       0x40 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .bss.pxCurrentTCB
+                0x20000064        0x4 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .bss.pxDelayedTaskList
+                0x20000068        0x4 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .bss.pxEnd     0x2000006c        0x4 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .bss.pxOverflowDelayedTaskList
+                0x20000070        0x4 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .bss.pxReadyTasksLists
+                0x20000074       0x8c C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .bss.ucHeap    0x20000100     0x2800 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .bss.ulMaxPRIGROUPValue
+                0x20002900        0x4 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .bss.uxCurrentNumberOfTasks
+                0x20002904        0x4 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .bss.uxDeletedTasksWaitingCleanUp
+                0x20002908        0x4 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .bss.uxPendedTicks
+                0x2000290c        0x4 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .bss.uxSchedulerSuspended
+                0x20002910        0x4 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .bss.uxTaskNumber
+                0x20002914        0x4 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .bss.uxTopReadyPriority
+                0x20002918        0x4 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .bss.xBlockAllocatedBit
+                0x2000291c        0x4 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .bss.xDelayedTaskList1
+                0x20002920       0x14 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .bss.xDelayedTaskList2
+                0x20002934       0x14 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .bss.xFreeBytesRemaining
+                0x20002948        0x4 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .bss.xIdleTaskHandle
+                0x2000294c        0x4 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .bss.xMinimumEverFreeBytesRemaining
+                0x20002950        0x4 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .bss.xNextTaskUnblockTime
+                0x20002954        0x4 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .bss.xNumOfOverflows
+                0x20002958        0x4 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .bss.xPendingReadyList
+                0x2000295c       0x14 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .bss.xSchedulerRunning
+                0x20002970        0x4 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .bss.xStart    0x20002974        0x8 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .bss.xSuspendedTaskList
+                0x2000297c       0x14 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .bss.xTasksWaitingTermination
+                0x20002990       0x14 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .bss.xTickCount
+                0x200029a4        0x4 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .bss.xYieldPending
+                0x200029a8        0x4 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ *(COMMON)
+                0x200029ac                . = ALIGN (0x4)
+                0x200029ac                _ebss = .
+                0x200029ac                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x200029ac      0x604 load address 0x080011cc
+                0x200029b0                . = ALIGN (0x8)
+ *fill*         0x200029ac        0x4 
+                [!provide]                PROVIDE (end, .)
+                [!provide]                PROVIDE (_end, .)
+                0x20002bb0                . = (. + _Min_Heap_Size)
+ *fill*         0x200029b0      0x200 
+                0x20002fb0                . = (. + _Min_Stack_Size)
+ *fill*         0x20002bb0      0x400 
+                0x20002fb0                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1d d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crti.o
+ .ARM.attributes
+                0x0000001d       0x2d d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x31 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .ARM.attributes
+                0x0000007b       0x21 ./startup_stm32f103xb.o
+ .ARM.attributes
+                0x0000009c       0x2d d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x000000c9       0x2d d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000000f6       0x1d d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtn.o
+OUTPUT(syslight-gw-eclipse.elf elf32-littlearm)
+
+.debug_info     0x00000000     0x3b09
+ .debug_info    0x00000000     0x3ae7 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .debug_info    0x00003ae7       0x22 ./startup_stm32f103xb.o
+
+.debug_abbrev   0x00000000      0x5eb
+ .debug_abbrev  0x00000000      0x5d9 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .debug_abbrev  0x000005d9       0x12 ./startup_stm32f103xb.o
+
+.debug_loc      0x00000000     0x1274
+ .debug_loc     0x00000000     0x1274 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+
+.debug_aranges  0x00000000       0xf8
+ .debug_aranges
+                0x00000000       0xd0 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .debug_aranges
+                0x000000d0       0x28 ./startup_stm32f103xb.o
+
+.debug_ranges   0x00000000      0x688
+ .debug_ranges  0x00000000      0x668 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .debug_ranges  0x00000668       0x20 ./startup_stm32f103xb.o
+
+.debug_line     0x00000000      0xe75
+ .debug_line    0x00000000      0xe00 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .debug_line    0x00000e00       0x75 ./startup_stm32f103xb.o
+
+.debug_str      0x00000000     0x1d7f
+ .debug_str     0x00000000     0x1d1e C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+                               0x1e73 (size before relaxing)
+ .debug_str     0x00001d1e       0x61 ./startup_stm32f103xb.o
+
+.comment        0x00000000       0x7e
+ .comment       0x00000000       0x7e C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+                                 0x7f (size before relaxing)
+
+.debug_frame    0x00000000      0x290
+ .debug_frame   0x00000000      0x244 C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+ .debug_frame   0x00000244       0x2c d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-init.o)
+ .debug_frame   0x00000270       0x20 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-memset.o)
+
+Cross Reference Table
+
+Symbol                                            File
+ADC1_2_IRQHandler                                 ./startup_stm32f103xb.o
+AHBPrescTable                                     ./Core/Src/system_stm32f1xx.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_utils.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_rcc.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o (symbol from plugin)
+APBPrescTable                                     ./Core/Src/system_stm32f1xx.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_rcc.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o (symbol from plugin)
+BusFault_Handler                                  ./startup_stm32f103xb.o
+                                                  ./Core/Src/stm32f1xx_it.o (symbol from plugin)
+CAN1_RX1_IRQHandler                               ./startup_stm32f103xb.o
+CAN1_SCE_IRQHandler                               ./startup_stm32f103xb.o
+DMA1_Channel1_IRQHandler                          ./startup_stm32f103xb.o
+DMA1_Channel2_IRQHandler                          ./startup_stm32f103xb.o
+DMA1_Channel3_IRQHandler                          ./startup_stm32f103xb.o
+DMA1_Channel4_IRQHandler                          ./startup_stm32f103xb.o
+DMA1_Channel5_IRQHandler                          ./startup_stm32f103xb.o
+DMA1_Channel6_IRQHandler                          ./startup_stm32f103xb.o
+DMA1_Channel7_IRQHandler                          ./startup_stm32f103xb.o
+DebugMon_Handler                                  ./startup_stm32f103xb.o
+                                                  ./Core/Src/stm32f1xx_it.o (symbol from plugin)
+Default_Handler                                   ./startup_stm32f103xb.o
+EXTI0_IRQHandler                                  ./startup_stm32f103xb.o
+                                                  ./Core/Src/stm32f1xx_it.o (symbol from plugin)
+EXTI15_10_IRQHandler                              ./startup_stm32f103xb.o
+EXTI1_IRQHandler                                  ./startup_stm32f103xb.o
+EXTI2_IRQHandler                                  ./startup_stm32f103xb.o
+EXTI3_IRQHandler                                  ./startup_stm32f103xb.o
+EXTI4_IRQHandler                                  ./startup_stm32f103xb.o
+EXTI9_5_IRQHandler                                ./startup_stm32f103xb.o
+FLASH_IRQHandler                                  ./startup_stm32f103xb.o
+FLASH_PageErase                                   ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.o (symbol from plugin)
+FLASH_WaitForLastOperation                        ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.o (symbol from plugin)
+FreeRTOS_CLIGetOutputBuffer                       ./freertos-code/FreeRTOS-Plus/Source/FreeRTOS-Plus-CLI/FreeRTOS_CLI.o (symbol from plugin)
+FreeRTOS_CLIGetParameter                          ./freertos-code/FreeRTOS-Plus/Source/FreeRTOS-Plus-CLI/FreeRTOS_CLI.o (symbol from plugin)
+FreeRTOS_CLIProcessCommand                        ./freertos-code/FreeRTOS-Plus/Source/FreeRTOS-Plus-CLI/FreeRTOS_CLI.o (symbol from plugin)
+FreeRTOS_CLIRegisterCommand                       ./freertos-code/FreeRTOS-Plus/Source/FreeRTOS-Plus-CLI/FreeRTOS_CLI.o (symbol from plugin)
+HAL_DBGMCU_DisableDBGSleepMode                    ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o (symbol from plugin)
+HAL_DBGMCU_DisableDBGStandbyMode                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o (symbol from plugin)
+HAL_DBGMCU_DisableDBGStopMode                     ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o (symbol from plugin)
+HAL_DBGMCU_EnableDBGSleepMode                     ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o (symbol from plugin)
+HAL_DBGMCU_EnableDBGStandbyMode                   ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o (symbol from plugin)
+HAL_DBGMCU_EnableDBGStopMode                      ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o (symbol from plugin)
+HAL_DMA_Abort                                     ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_DMA_Abort_IT                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.o (symbol from plugin)
+HAL_DMA_DeInit                                    ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.o (symbol from plugin)
+HAL_DMA_GetError                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.o (symbol from plugin)
+HAL_DMA_GetState                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.o (symbol from plugin)
+HAL_DMA_IRQHandler                                ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.o (symbol from plugin)
+HAL_DMA_Init                                      ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.o (symbol from plugin)
+HAL_DMA_PollForTransfer                           ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.o (symbol from plugin)
+HAL_DMA_RegisterCallback                          ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.o (symbol from plugin)
+HAL_DMA_Start                                     ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.o (symbol from plugin)
+HAL_DMA_Start_IT                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_DMA_UnRegisterCallback                        ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.o (symbol from plugin)
+HAL_DeInit                                        ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o (symbol from plugin)
+HAL_Delay                                         ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o (symbol from plugin)
+HAL_FLASHEx_Erase                                 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.o (symbol from plugin)
+HAL_FLASHEx_Erase_IT                              ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.o (symbol from plugin)
+HAL_FLASHEx_OBErase                               ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.o (symbol from plugin)
+HAL_FLASHEx_OBGetConfig                           ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.o (symbol from plugin)
+HAL_FLASHEx_OBGetUserData                         ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.o (symbol from plugin)
+HAL_FLASHEx_OBProgram                             ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.o (symbol from plugin)
+HAL_FLASH_EndOfOperationCallback                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.o (symbol from plugin)
+HAL_FLASH_GetError                                ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.o (symbol from plugin)
+HAL_FLASH_IRQHandler                              ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.o (symbol from plugin)
+HAL_FLASH_Lock                                    ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.o (symbol from plugin)
+HAL_FLASH_OB_Launch                               ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.o (symbol from plugin)
+HAL_FLASH_OB_Lock                                 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.o (symbol from plugin)
+HAL_FLASH_OB_Unlock                               ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.o (symbol from plugin)
+HAL_FLASH_OperationErrorCallback                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.o (symbol from plugin)
+HAL_FLASH_Program                                 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.o (symbol from plugin)
+HAL_FLASH_Program_IT                              ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.o (symbol from plugin)
+HAL_FLASH_Unlock                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.o (symbol from plugin)
+HAL_GPIOEx_ConfigEventout                         ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.o (symbol from plugin)
+HAL_GPIOEx_DisableEventout                        ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.o (symbol from plugin)
+HAL_GPIOEx_EnableEventout                         ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.o (symbol from plugin)
+HAL_GPIO_DeInit                                   ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o (symbol from plugin)
+HAL_GPIO_EXTI_Callback                            ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o (symbol from plugin)
+HAL_GPIO_EXTI_IRQHandler                          ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o (symbol from plugin)
+HAL_GPIO_Init                                     ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o (symbol from plugin)
+HAL_GPIO_LockPin                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o (symbol from plugin)
+HAL_GPIO_ReadPin                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o (symbol from plugin)
+HAL_GPIO_TogglePin                                ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o (symbol from plugin)
+HAL_GPIO_WritePin                                 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o (symbol from plugin)
+HAL_GetDEVID                                      ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o (symbol from plugin)
+HAL_GetHalVersion                                 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o (symbol from plugin)
+HAL_GetREVID                                      ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o (symbol from plugin)
+HAL_GetTick                                       ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.o (symbol from plugin)
+HAL_GetTickFreq                                   ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o (symbol from plugin)
+HAL_GetTickPrio                                   ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o (symbol from plugin)
+HAL_GetUID                                        ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o (symbol from plugin)
+HAL_IncTick                                       ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o (symbol from plugin)
+                                                  ./Core/Src/main.o (symbol from plugin)
+HAL_Init                                          ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o (symbol from plugin)
+                                                  ./Core/Src/main.o (symbol from plugin)
+HAL_InitTick                                      ./Core/Src/stm32f1xx_hal_timebase_TIM.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o (symbol from plugin)
+HAL_MspDeInit                                     ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o (symbol from plugin)
+HAL_MspInit                                       ./Core/Src/stm32f1xx_hal_msp.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o (symbol from plugin)
+HAL_NVIC_ClearPendingIRQ                          ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o (symbol from plugin)
+HAL_NVIC_DisableIRQ                               ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o (symbol from plugin)
+HAL_NVIC_EnableIRQ                                ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o (symbol from plugin)
+                                                  ./Core/Src/stm32f1xx_hal_timebase_TIM.o (symbol from plugin)
+HAL_NVIC_GetActive                                ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o (symbol from plugin)
+HAL_NVIC_GetPendingIRQ                            ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o (symbol from plugin)
+HAL_NVIC_GetPriority                              ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o (symbol from plugin)
+HAL_NVIC_GetPriorityGrouping                      ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o (symbol from plugin)
+HAL_NVIC_SetPendingIRQ                            ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o (symbol from plugin)
+HAL_NVIC_SetPriority                              ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o (symbol from plugin)
+                                                  ./Core/Src/stm32f1xx_hal_timebase_TIM.o (symbol from plugin)
+                                                  ./Core/Src/stm32f1xx_hal_msp.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o (symbol from plugin)
+HAL_NVIC_SetPriorityGrouping                      ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o (symbol from plugin)
+                                                  ./Core/Src/stm32f1xx_hal_msp.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o (symbol from plugin)
+HAL_NVIC_SystemReset                              ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.o (symbol from plugin)
+HAL_PWR_ConfigPVD                                 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.o (symbol from plugin)
+HAL_PWR_DeInit                                    ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.o (symbol from plugin)
+HAL_PWR_DisableBkUpAccess                         ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.o (symbol from plugin)
+HAL_PWR_DisablePVD                                ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.o (symbol from plugin)
+HAL_PWR_DisableSEVOnPend                          ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.o (symbol from plugin)
+HAL_PWR_DisableSleepOnExit                        ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.o (symbol from plugin)
+HAL_PWR_DisableWakeUpPin                          ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.o (symbol from plugin)
+HAL_PWR_EnableBkUpAccess                          ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.o (symbol from plugin)
+HAL_PWR_EnablePVD                                 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.o (symbol from plugin)
+HAL_PWR_EnableSEVOnPend                           ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.o (symbol from plugin)
+HAL_PWR_EnableSleepOnExit                         ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.o (symbol from plugin)
+HAL_PWR_EnableWakeUpPin                           ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.o (symbol from plugin)
+HAL_PWR_EnterSLEEPMode                            ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.o (symbol from plugin)
+HAL_PWR_EnterSTANDBYMode                          ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.o (symbol from plugin)
+HAL_PWR_EnterSTOPMode                             ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.o (symbol from plugin)
+HAL_PWR_PVDCallback                               ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.o (symbol from plugin)
+HAL_PWR_PVD_IRQHandler                            ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.o (symbol from plugin)
+HAL_RCCEx_GetPeriphCLKConfig                      ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.o (symbol from plugin)
+HAL_RCCEx_GetPeriphCLKFreq                        ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.o (symbol from plugin)
+HAL_RCCEx_PeriphCLKConfig                         ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.o (symbol from plugin)
+HAL_RCC_CSSCallback                               ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o (symbol from plugin)
+HAL_RCC_ClockConfig                               ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o (symbol from plugin)
+HAL_RCC_DeInit                                    ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o (symbol from plugin)
+HAL_RCC_DisableCSS                                ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o (symbol from plugin)
+HAL_RCC_EnableCSS                                 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o (symbol from plugin)
+HAL_RCC_GetClockConfig                            ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o (symbol from plugin)
+                                                  ./Core/Src/stm32f1xx_hal_timebase_TIM.o (symbol from plugin)
+HAL_RCC_GetHCLKFreq                               ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o (symbol from plugin)
+HAL_RCC_GetOscConfig                              ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o (symbol from plugin)
+HAL_RCC_GetPCLK1Freq                              ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o (symbol from plugin)
+HAL_RCC_GetPCLK2Freq                              ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o (symbol from plugin)
+                                                  ./Core/Src/stm32f1xx_hal_timebase_TIM.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.o (symbol from plugin)
+HAL_RCC_GetSysClockFreq                           ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o (symbol from plugin)
+HAL_RCC_MCOConfig                                 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o (symbol from plugin)
+HAL_RCC_NMI_IRQHandler                            ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o (symbol from plugin)
+HAL_RCC_OscConfig                                 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o (symbol from plugin)
+HAL_ResumeTick                                    ./Core/Src/stm32f1xx_hal_timebase_TIM.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o (symbol from plugin)
+HAL_SYSTICK_CLKSourceConfig                       ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o (symbol from plugin)
+HAL_SYSTICK_Callback                              ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o (symbol from plugin)
+HAL_SYSTICK_Config                                ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o (symbol from plugin)
+HAL_SYSTICK_IRQHandler                            ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o (symbol from plugin)
+HAL_SetTickFreq                                   ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o (symbol from plugin)
+HAL_SuspendTick                                   ./Core/Src/stm32f1xx_hal_timebase_TIM.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o (symbol from plugin)
+HAL_TIMEx_BreakCallback                           ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIMEx_CommutationCallback                     ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIMEx_ConfigBreakDeadTime                     ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+HAL_TIMEx_ConfigCommutationEvent                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+HAL_TIMEx_ConfigCommutationEvent_DMA              ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+HAL_TIMEx_ConfigCommutationEvent_IT               ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+HAL_TIMEx_HallSensor_DeInit                       ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+HAL_TIMEx_HallSensor_GetState                     ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+HAL_TIMEx_HallSensor_Init                         ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+HAL_TIMEx_HallSensor_MspDeInit                    ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+HAL_TIMEx_HallSensor_MspInit                      ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+HAL_TIMEx_HallSensor_Start                        ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+HAL_TIMEx_HallSensor_Start_DMA                    ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+HAL_TIMEx_HallSensor_Start_IT                     ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+HAL_TIMEx_HallSensor_Stop                         ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+HAL_TIMEx_HallSensor_Stop_DMA                     ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+HAL_TIMEx_HallSensor_Stop_IT                      ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+HAL_TIMEx_MasterConfigSynchronization             ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+HAL_TIMEx_OCN_Start                               ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+HAL_TIMEx_OCN_Start_DMA                           ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+HAL_TIMEx_OCN_Start_IT                            ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+HAL_TIMEx_OCN_Stop                                ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+HAL_TIMEx_OCN_Stop_DMA                            ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+HAL_TIMEx_OCN_Stop_IT                             ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+HAL_TIMEx_OnePulseN_Start                         ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+HAL_TIMEx_OnePulseN_Start_IT                      ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+HAL_TIMEx_OnePulseN_Stop                          ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+HAL_TIMEx_OnePulseN_Stop_IT                       ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+HAL_TIMEx_PWMN_Start                              ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+HAL_TIMEx_PWMN_Start_DMA                          ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+HAL_TIMEx_PWMN_Start_IT                           ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+HAL_TIMEx_PWMN_Stop                               ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+HAL_TIMEx_PWMN_Stop_DMA                           ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+HAL_TIMEx_PWMN_Stop_IT                            ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+HAL_TIM_Base_DeInit                               ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_Base_GetState                             ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_Base_Init                                 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+                                                  ./Core/Src/stm32f1xx_hal_timebase_TIM.o (symbol from plugin)
+HAL_TIM_Base_MspDeInit                            ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_Base_MspInit                              ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_Base_Start                                ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_Base_Start_DMA                            ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_Base_Start_IT                             ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+                                                  ./Core/Src/stm32f1xx_hal_timebase_TIM.o (symbol from plugin)
+HAL_TIM_Base_Stop                                 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_Base_Stop_DMA                             ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_Base_Stop_IT                              ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_ConfigClockSource                         ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_ConfigOCrefClear                          ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_ConfigTI1Input                            ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_DMABurst_ReadStart                        ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_DMABurst_ReadStop                         ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_DMABurst_WriteStart                       ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_DMABurst_WriteStop                        ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_Encoder_DeInit                            ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_Encoder_GetState                          ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_Encoder_Init                              ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_Encoder_MspDeInit                         ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_Encoder_MspInit                           ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_Encoder_Start                             ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_Encoder_Start_DMA                         ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_Encoder_Start_IT                          ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_Encoder_Stop                              ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_Encoder_Stop_DMA                          ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_Encoder_Stop_IT                           ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_ErrorCallback                             ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_GenerateEvent                             ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_IC_CaptureCallback                        ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_IC_ConfigChannel                          ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_IC_DeInit                                 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_IC_GetState                               ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_IC_Init                                   ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_IC_MspDeInit                              ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_IC_MspInit                                ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_IC_Start                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_IC_Start_DMA                              ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_IC_Start_IT                               ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_IC_Stop                                   ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_IC_Stop_DMA                               ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_IC_Stop_IT                                ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_IRQHandler                                ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+                                                  ./Core/Src/stm32f1xx_it.o (symbol from plugin)
+HAL_TIM_OC_ConfigChannel                          ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_OC_DeInit                                 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_OC_DelayElapsedCallback                   ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_OC_GetState                               ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_OC_Init                                   ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_OC_MspDeInit                              ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_OC_MspInit                                ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_OC_Start                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_OC_Start_DMA                              ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_OC_Start_IT                               ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_OC_Stop                                   ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_OC_Stop_DMA                               ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_OC_Stop_IT                                ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_OnePulse_ConfigChannel                    ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_OnePulse_DeInit                           ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_OnePulse_GetState                         ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_OnePulse_Init                             ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_OnePulse_MspDeInit                        ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_OnePulse_MspInit                          ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_OnePulse_Start                            ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_OnePulse_Start_IT                         ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_OnePulse_Stop                             ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_OnePulse_Stop_IT                          ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_PWM_ConfigChannel                         ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_PWM_DeInit                                ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_PWM_GetState                              ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_PWM_Init                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_PWM_MspDeInit                             ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_PWM_MspInit                               ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_PWM_PulseFinishedCallback                 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_PWM_Start                                 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_PWM_Start_DMA                             ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_PWM_Start_IT                              ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_PWM_Stop                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_PWM_Stop_DMA                              ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_PWM_Stop_IT                               ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_PeriodElapsedCallback                     ./Core/Src/main.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_ReadCapturedValue                         ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_SlaveConfigSynchronization                ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_SlaveConfigSynchronization_IT             ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HAL_TIM_TriggerCallback                           ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+HardFault_Handler                                 ./startup_stm32f103xb.o
+                                                  ./Core/Src/stm32f1xx_it.o (symbol from plugin)
+I2C1_ER_IRQHandler                                ./startup_stm32f103xb.o
+I2C1_EV_IRQHandler                                ./startup_stm32f103xb.o
+I2C2_ER_IRQHandler                                ./startup_stm32f103xb.o
+I2C2_EV_IRQHandler                                ./startup_stm32f103xb.o
+LL_DMA_DeInit                                     ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_dma.o (symbol from plugin)
+LL_DMA_Init                                       ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_dma.o (symbol from plugin)
+LL_DMA_StructInit                                 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_dma.o (symbol from plugin)
+LL_EXTI_DeInit                                    ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_exti.o (symbol from plugin)
+LL_EXTI_Init                                      ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_exti.o (symbol from plugin)
+                                                  ./Core/Src/gpio.o (symbol from plugin)
+LL_EXTI_StructInit                                ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_exti.o (symbol from plugin)
+LL_GPIO_DeInit                                    ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_gpio.o (symbol from plugin)
+LL_GPIO_Init                                      ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_gpio.o (symbol from plugin)
+                                                  ./Core/Src/usart.o (symbol from plugin)
+                                                  ./Core/Src/spi.o (symbol from plugin)
+                                                  ./Core/Src/i2c.o (symbol from plugin)
+                                                  ./Core/Src/gpio.o (symbol from plugin)
+LL_GPIO_StructInit                                ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_gpio.o (symbol from plugin)
+LL_I2C_DeInit                                     ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_i2c.o (symbol from plugin)
+LL_I2C_Init                                       ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_i2c.o (symbol from plugin)
+                                                  ./Core/Src/i2c.o (symbol from plugin)
+LL_I2C_StructInit                                 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_i2c.o (symbol from plugin)
+LL_Init1msTick                                    ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_utils.o (symbol from plugin)
+                                                  ./Core/Src/main.o (symbol from plugin)
+LL_PLL_ConfigSystemClock_HSE                      ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_utils.o (symbol from plugin)
+LL_PLL_ConfigSystemClock_HSI                      ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_utils.o (symbol from plugin)
+LL_RCC_DeInit                                     ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_rcc.o (symbol from plugin)
+LL_RCC_GetADCClockFreq                            ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_rcc.o (symbol from plugin)
+LL_RCC_GetSystemClocksFreq                        ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_rcc.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usart.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_i2c.o (symbol from plugin)
+LL_RCC_GetUSBClockFreq                            ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_rcc.o (symbol from plugin)
+LL_RTC_ALARM_Init                                 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_rtc.o (symbol from plugin)
+LL_RTC_ALARM_SetCounter                           ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_rtc.o (symbol from plugin)
+LL_RTC_ALARM_StructInit                           ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_rtc.o (symbol from plugin)
+LL_RTC_DeInit                                     ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_rtc.o (symbol from plugin)
+LL_RTC_EnterInitMode                              ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_rtc.o (symbol from plugin)
+LL_RTC_ExitInitMode                               ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_rtc.o (symbol from plugin)
+LL_RTC_Init                                       ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_rtc.o (symbol from plugin)
+                                                  ./Core/Src/rtc.o (symbol from plugin)
+LL_RTC_StructInit                                 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_rtc.o (symbol from plugin)
+LL_RTC_TIME_Init                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_rtc.o (symbol from plugin)
+                                                  ./Core/Src/rtc.o (symbol from plugin)
+LL_RTC_TIME_SetCounter                            ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_rtc.o (symbol from plugin)
+LL_RTC_TIME_StructInit                            ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_rtc.o (symbol from plugin)
+LL_RTC_WaitForSynchro                             ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_rtc.o (symbol from plugin)
+LL_SPI_DeInit                                     ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_spi.o (symbol from plugin)
+LL_SPI_Init                                       ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_spi.o (symbol from plugin)
+                                                  ./Core/Src/spi.o (symbol from plugin)
+LL_SPI_StructInit                                 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_spi.o (symbol from plugin)
+LL_SetSystemCoreClock                             ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_utils.o (symbol from plugin)
+                                                  ./Core/Src/main.o (symbol from plugin)
+LL_TIM_BDTR_Init                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_tim.o (symbol from plugin)
+LL_TIM_BDTR_StructInit                            ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_tim.o (symbol from plugin)
+LL_TIM_DeInit                                     ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_tim.o (symbol from plugin)
+LL_TIM_ENCODER_Init                               ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_tim.o (symbol from plugin)
+LL_TIM_ENCODER_StructInit                         ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_tim.o (symbol from plugin)
+LL_TIM_HALLSENSOR_Init                            ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_tim.o (symbol from plugin)
+LL_TIM_HALLSENSOR_StructInit                      ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_tim.o (symbol from plugin)
+LL_TIM_IC_Init                                    ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_tim.o (symbol from plugin)
+LL_TIM_IC_StructInit                              ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_tim.o (symbol from plugin)
+LL_TIM_Init                                       ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_tim.o (symbol from plugin)
+                                                  ./Core/Src/tim.o (symbol from plugin)
+LL_TIM_OC_Init                                    ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_tim.o (symbol from plugin)
+LL_TIM_OC_StructInit                              ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_tim.o (symbol from plugin)
+LL_TIM_StructInit                                 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_tim.o (symbol from plugin)
+LL_USART_ClockInit                                ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usart.o (symbol from plugin)
+LL_USART_ClockStructInit                          ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usart.o (symbol from plugin)
+LL_USART_DeInit                                   ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usart.o (symbol from plugin)
+LL_USART_Init                                     ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usart.o (symbol from plugin)
+                                                  ./Core/Src/usart.o (symbol from plugin)
+LL_USART_StructInit                               ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usart.o (symbol from plugin)
+LL_mDelay                                         ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_utils.o (symbol from plugin)
+MX_FREERTOS_Init                                  ./Core/Src/freertos.o (symbol from plugin)
+                                                  ./Core/Src/main.o (symbol from plugin)
+MX_GPIO_Init                                      ./Core/Src/gpio.o (symbol from plugin)
+                                                  ./Core/Src/main.o (symbol from plugin)
+MX_I2C1_Init                                      ./Core/Src/i2c.o (symbol from plugin)
+MX_RTC_Init                                       ./Core/Src/rtc.o (symbol from plugin)
+MX_SPI1_Init                                      ./Core/Src/spi.o (symbol from plugin)
+MX_TIM2_Init                                      ./Core/Src/tim.o (symbol from plugin)
+MX_USART1_UART_Init                               ./Core/Src/usart.o (symbol from plugin)
+MX_USART2_UART_Init                               ./Core/Src/usart.o (symbol from plugin)
+MX_USART3_UART_Init                               ./Core/Src/usart.o (symbol from plugin)
+MemManage_Handler                                 ./startup_stm32f103xb.o
+                                                  ./Core/Src/stm32f1xx_it.o (symbol from plugin)
+NMI_Handler                                       ./startup_stm32f103xb.o
+                                                  ./Core/Src/stm32f1xx_it.o (symbol from plugin)
+PVD_IRQHandler                                    ./startup_stm32f103xb.o
+PendSV_Handler                                    ./startup_stm32f103xb.o
+                                                  ./freertos-code/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o (symbol from plugin)
+RCC_GetHCLKClockFreq                              ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_rcc.o (symbol from plugin)
+RCC_GetPCLK1ClockFreq                             ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_rcc.o (symbol from plugin)
+RCC_GetPCLK2ClockFreq                             ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_rcc.o (symbol from plugin)
+RCC_GetSystemClockFreq                            ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_rcc.o (symbol from plugin)
+RCC_IRQHandler                                    ./startup_stm32f103xb.o
+RCC_PLL_GetFreqDomain_SYS                         ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_rcc.o (symbol from plugin)
+RTC_Alarm_IRQHandler                              ./startup_stm32f103xb.o
+RTC_IRQHandler                                    ./startup_stm32f103xb.o
+Reset_Handler                                     ./startup_stm32f103xb.o
+SPI1_IRQHandler                                   ./startup_stm32f103xb.o
+SPI2_IRQHandler                                   ./startup_stm32f103xb.o
+SVC_Handler                                       ./startup_stm32f103xb.o
+                                                  ./freertos-code/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o (symbol from plugin)
+StartDefaultTask                                  ./Core/Src/freertos.o (symbol from plugin)
+SysTick_Handler                                   ./startup_stm32f103xb.o
+                                                  ./Core/Src/stm32f1xx_it.o (symbol from plugin)
+SystemClock_Config                                ./Core/Src/main.o (symbol from plugin)
+SystemCoreClock                                   ./Core/Src/system_stm32f1xx.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_utils.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o (symbol from plugin)
+SystemCoreClockUpdate                             ./Core/Src/system_stm32f1xx.o (symbol from plugin)
+SystemInit                                        C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+                                                  ./Core/Src/system_stm32f1xx.o (symbol from plugin)
+                                                  ./startup_stm32f103xb.o
+TAMPER_IRQHandler                                 ./startup_stm32f103xb.o
+TIM1_BRK_IRQHandler                               ./startup_stm32f103xb.o
+TIM1_CC_IRQHandler                                ./startup_stm32f103xb.o
+TIM1_TRG_COM_IRQHandler                           ./startup_stm32f103xb.o
+TIM1_UP_IRQHandler                                ./startup_stm32f103xb.o
+                                                  ./Core/Src/stm32f1xx_it.o (symbol from plugin)
+TIM2_IRQHandler                                   ./startup_stm32f103xb.o
+TIM3_IRQHandler                                   ./startup_stm32f103xb.o
+TIM4_IRQHandler                                   ./startup_stm32f103xb.o
+TIMEx_DMACommutationCplt                          ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+TIM_Base_SetConfig                                ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+TIM_CCxChannelCmd                                 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+TIM_DMACaptureCplt                                ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+TIM_DMADelayPulseCplt                             ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+TIM_DMAError                                      ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+TIM_OC2_SetConfig                                 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+TIM_TI1_SetConfig                                 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+USART1_IRQHandler                                 ./startup_stm32f103xb.o
+USART2_IRQHandler                                 ./startup_stm32f103xb.o
+USART3_IRQHandler                                 ./startup_stm32f103xb.o
+USBWakeUp_IRQHandler                              ./startup_stm32f103xb.o
+USB_HP_CAN1_TX_IRQHandler                         ./startup_stm32f103xb.o
+USB_LP_CAN1_RX0_IRQHandler                        ./startup_stm32f103xb.o
+UsageFault_Handler                                ./startup_stm32f103xb.o
+                                                  ./Core/Src/stm32f1xx_it.o (symbol from plugin)
+WWDG_IRQHandler                                   ./startup_stm32f103xb.o
+_Error_Handler                                    ./Core/Src/main.o (symbol from plugin)
+__bss_end__                                       d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+__bss_start__                                     d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+__call_exitprocs                                  d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-exit.o)
+__deregister_frame_info                           d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+__dso_handle                                      d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+__init_array_end                                  d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-init.o)
+__init_array_start                                d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-init.o)
+__libc_fini_array                                 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+__libc_init_array                                 d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-init.o)
+                                                  ./startup_stm32f103xb.o
+                                                  d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+__preinit_array_end                               d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-init.o)
+__preinit_array_start                             d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-init.o)
+__register_frame_info                             d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crtbegin.o
+__sf_fake_stderr                                  d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-impure.o)
+__sf_fake_stdin                                   d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-impure.o)
+__sf_fake_stdout                                  d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-impure.o)
+__stack                                           d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+_ebss                                             ./startup_stm32f103xb.o
+_edata                                            ./startup_stm32f103xb.o
+_estack                                           ./startup_stm32f103xb.o
+_exit                                             d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-exit.o)
+_fini                                             d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crti.o
+_global_impure_ptr                                d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-impure.o)
+                                                  d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-exit.o)
+_impure_ptr                                       d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-impure.o)
+_init                                             d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7-m/crti.o
+                                                  d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-init.o)
+_mainCRTStartup                                   d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+_sbss                                             ./startup_stm32f103xb.o
+_sdata                                            ./startup_stm32f103xb.o
+_sidata                                           ./startup_stm32f103xb.o
+_start                                            d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+assert_failed                                     ./Core/Src/main.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_utils.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usart.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_tim.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_spi.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_rtc.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_rcc.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_i2c.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_gpio.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_exti.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_dma.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o (symbol from plugin)
+atexit                                            d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+defaultTaskHandle                                 ./Core/Src/freertos.o (symbol from plugin)
+exit                                              d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-exit.o)
+                                                  d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+g_pfnVectors                                      ./startup_stm32f103xb.o
+hardware_init_hook                                d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+htim1                                             ./Core/Src/stm32f1xx_hal_timebase_TIM.o (symbol from plugin)
+                                                  ./Core/Src/stm32f1xx_it.o (symbol from plugin)
+main                                              C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+                                                  ./Core/Src/main.o (symbol from plugin)
+                                                  ./startup_stm32f103xb.o
+                                                  d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+memcpy                                            d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-memcpy-stub.o)
+                                                  ./freertos-code/FreeRTOS/Source/stream_buffer.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+memset                                            d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-memset.o)
+                                                  C:\Users\alien\AppData\Local\Temp\ccjguzFb.ltrans0.ltrans.o
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/stream_buffer.o (symbol from plugin)
+                                                  d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+osAbortDelay                                      ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osDelay                                           ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+                                                  ./Core/Src/freertos.o (symbol from plugin)
+osDelayUntil                                      ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osKernelRunning                                   ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osKernelStart                                     ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+                                                  ./Core/Src/main.o (symbol from plugin)
+osKernelSysTick                                   ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osMailAlloc                                       ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osMailCAlloc                                      ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osMailCreate                                      ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osMailFree                                        ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osMailGet                                         ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osMailPut                                         ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osMessageAvailableSpace                           ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osMessageCreate                                   ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osMessageDelete                                   ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osMessageGet                                      ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osMessagePeek                                     ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osMessagePut                                      ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osMessageWaiting                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osMutexCreate                                     ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osMutexDelete                                     ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osMutexRelease                                    ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osMutexWait                                       ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osPoolAlloc                                       ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osPoolCAlloc                                      ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osPoolCreate                                      ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osPoolFree                                        ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osRecursiveMutexCreate                            ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osRecursiveMutexRelease                           ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osRecursiveMutexWait                              ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osSemaphoreCreate                                 ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osSemaphoreDelete                                 ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osSemaphoreGetCount                               ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osSemaphoreRelease                                ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osSemaphoreWait                                   ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osSignalSet                                       ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osSignalWait                                      ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osSystickHandler                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+                                                  ./Core/Src/stm32f1xx_it.o (symbol from plugin)
+osThreadCreate                                    ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+                                                  ./Core/Src/freertos.o (symbol from plugin)
+osThreadGetId                                     ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osThreadGetPriority                               ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osThreadList                                      ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osThreadResume                                    ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osThreadResumeAll                                 ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osThreadSetPriority                               ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osThreadSuspend                                   ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osThreadSuspendAll                                ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osThreadTerminate                                 ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osThreadYield                                     ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osTimerCreate                                     ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osTimerDelete                                     ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osTimerStart                                      ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+osTimerStop                                       ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+pFlash                                            ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.o (symbol from plugin)
+                                                  ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.o (symbol from plugin)
+pcQueueGetName                                    ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+pcTaskGetName                                     ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+pvPortMalloc                                      ./freertos-code/FreeRTOS/Source/portable/MemMang/heap_4.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS-Plus/Source/FreeRTOS-Plus-CLI/FreeRTOS_CLI.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/stream_buffer.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/event_groups.o (symbol from plugin)
+pvTaskIncrementMutexHeldCount                     ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+pxCurrentTCB                                      ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+pxPortInitialiseStack                             ./freertos-code/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+software_init_hook                                d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+strlen                                            d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-strlen.o)
+                                                  ./freertos-code/FreeRTOS-Plus/Source/FreeRTOS-Plus-CLI/FreeRTOS_CLI.o (symbol from plugin)
+strncmp                                           d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-strncmp.o)
+                                                  ./freertos-code/FreeRTOS-Plus/Source/FreeRTOS-Plus-CLI/FreeRTOS_CLI.o (symbol from plugin)
+strncpy                                           d:/gnu/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg_nano.a(lib_a-strncpy.o)
+                                                  ./freertos-code/FreeRTOS-Plus/Source/FreeRTOS-Plus-CLI/FreeRTOS_CLI.o (symbol from plugin)
+ulTaskNotifyTake                                  ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+uwTick                                            ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o (symbol from plugin)
+uwTickFreq                                        ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o (symbol from plugin)
+uwTickPrio                                        ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o (symbol from plugin)
+uxListRemove                                      ./freertos-code/FreeRTOS/Source/list.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+uxQueueMessagesWaiting                            ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+uxQueueMessagesWaitingFromISR                     ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+uxQueueSpacesAvailable                            ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+uxTaskGetNumberOfTasks                            ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+uxTaskPriorityGet                                 ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+uxTaskPriorityGetFromISR                          ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+uxTaskResetEventItemValue                         ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/event_groups.o (symbol from plugin)
+vApplicationMallocFailedHook                      ./Core/Src/freertos.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/portable/MemMang/heap_4.o (symbol from plugin)
+vApplicationStackOverflowHook                     ./Core/Src/freertos.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+vEventGroupClearBitsCallback                      ./freertos-code/FreeRTOS/Source/event_groups.o (symbol from plugin)
+vEventGroupDelete                                 ./freertos-code/FreeRTOS/Source/event_groups.o (symbol from plugin)
+vEventGroupSetBitsCallback                        ./freertos-code/FreeRTOS/Source/event_groups.o (symbol from plugin)
+vListInitialise                                   ./freertos-code/FreeRTOS/Source/list.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/event_groups.o (symbol from plugin)
+vListInitialiseItem                               ./freertos-code/FreeRTOS/Source/list.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+vListInsert                                       ./freertos-code/FreeRTOS/Source/list.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+vListInsertEnd                                    ./freertos-code/FreeRTOS/Source/list.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+vPortEndScheduler                                 ./freertos-code/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+vPortEnterCritical                                ./freertos-code/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS-Plus/Source/FreeRTOS-Plus-CLI/FreeRTOS_CLI.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/stream_buffer.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/event_groups.o (symbol from plugin)
+vPortExitCritical                                 ./freertos-code/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS-Plus/Source/FreeRTOS-Plus-CLI/FreeRTOS_CLI.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/stream_buffer.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/event_groups.o (symbol from plugin)
+vPortFree                                         ./freertos-code/FreeRTOS/Source/portable/MemMang/heap_4.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/stream_buffer.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/event_groups.o (symbol from plugin)
+vPortInitialiseBlocks                             ./freertos-code/FreeRTOS/Source/portable/MemMang/heap_4.o (symbol from plugin)
+vPortSetupTimerInterrupt                          ./freertos-code/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o (symbol from plugin)
+vPortValidateInterruptPriority                    ./freertos-code/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+vQueueAddToRegistry                               ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+vQueueDelete                                      ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+vQueueUnregisterQueue                             ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+vStreamBufferDelete                               ./freertos-code/FreeRTOS/Source/stream_buffer.o (symbol from plugin)
+vTaskDelay                                        ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+vTaskDelayUntil                                   ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+vTaskDelete                                       ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+vTaskEndScheduler                                 ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+vTaskInternalSetTimeOutState                      ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+vTaskMissedYield                                  ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+vTaskNotifyGiveFromISR                            ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+vTaskPlaceOnEventList                             ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+vTaskPlaceOnUnorderedEventList                    ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/event_groups.o (symbol from plugin)
+vTaskPriorityDisinheritAfterTimeout               ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+vTaskPrioritySet                                  ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+vTaskRemoveFromUnorderedEventList                 ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/event_groups.o (symbol from plugin)
+vTaskResume                                       ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+vTaskSetTimeOutState                              ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/stream_buffer.o (symbol from plugin)
+vTaskStartScheduler                               ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+vTaskSuspend                                      ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+vTaskSuspendAll                                   ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/stream_buffer.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/event_groups.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/portable/MemMang/heap_4.o (symbol from plugin)
+vTaskSwitchContext                                ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o (symbol from plugin)
+xEventGroupClearBits                              ./freertos-code/FreeRTOS/Source/event_groups.o (symbol from plugin)
+xEventGroupCreate                                 ./freertos-code/FreeRTOS/Source/event_groups.o (symbol from plugin)
+xEventGroupGetBitsFromISR                         ./freertos-code/FreeRTOS/Source/event_groups.o (symbol from plugin)
+xEventGroupSetBits                                ./freertos-code/FreeRTOS/Source/event_groups.o (symbol from plugin)
+xEventGroupSync                                   ./freertos-code/FreeRTOS/Source/event_groups.o (symbol from plugin)
+xEventGroupWaitBits                               ./freertos-code/FreeRTOS/Source/event_groups.o (symbol from plugin)
+xPortGetFreeHeapSize                              ./freertos-code/FreeRTOS/Source/portable/MemMang/heap_4.o (symbol from plugin)
+xPortGetMinimumEverFreeHeapSize                   ./freertos-code/FreeRTOS/Source/portable/MemMang/heap_4.o (symbol from plugin)
+xPortStartScheduler                               ./freertos-code/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+xPortSysTickHandler                               ./freertos-code/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+xQueueCreateMutex                                 ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+xQueueGenericCreate                               ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+xQueueGenericReset                                ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+xQueueGenericSend                                 ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+xQueueGenericSendFromISR                          ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+xQueueGiveFromISR                                 ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+xQueueIsQueueEmptyFromISR                         ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+xQueueIsQueueFullFromISR                          ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+xQueuePeek                                        ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+xQueuePeekFromISR                                 ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+xQueueReceive                                     ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+xQueueReceiveFromISR                              ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+xQueueRegistry                                    ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+xQueueSemaphoreTake                               ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+xStreamBufferBytesAvailable                       ./freertos-code/FreeRTOS/Source/stream_buffer.o (symbol from plugin)
+xStreamBufferGenericCreate                        ./freertos-code/FreeRTOS/Source/stream_buffer.o (symbol from plugin)
+xStreamBufferIsEmpty                              ./freertos-code/FreeRTOS/Source/stream_buffer.o (symbol from plugin)
+xStreamBufferIsFull                               ./freertos-code/FreeRTOS/Source/stream_buffer.o (symbol from plugin)
+xStreamBufferNextMessageLengthBytes               ./freertos-code/FreeRTOS/Source/stream_buffer.o (symbol from plugin)
+xStreamBufferReceive                              ./freertos-code/FreeRTOS/Source/stream_buffer.o (symbol from plugin)
+xStreamBufferReceiveCompletedFromISR              ./freertos-code/FreeRTOS/Source/stream_buffer.o (symbol from plugin)
+xStreamBufferReceiveFromISR                       ./freertos-code/FreeRTOS/Source/stream_buffer.o (symbol from plugin)
+xStreamBufferReset                                ./freertos-code/FreeRTOS/Source/stream_buffer.o (symbol from plugin)
+xStreamBufferSend                                 ./freertos-code/FreeRTOS/Source/stream_buffer.o (symbol from plugin)
+xStreamBufferSendCompletedFromISR                 ./freertos-code/FreeRTOS/Source/stream_buffer.o (symbol from plugin)
+xStreamBufferSendFromISR                          ./freertos-code/FreeRTOS/Source/stream_buffer.o (symbol from plugin)
+xStreamBufferSetTriggerLevel                      ./freertos-code/FreeRTOS/Source/stream_buffer.o (symbol from plugin)
+xStreamBufferSpacesAvailable                      ./freertos-code/FreeRTOS/Source/stream_buffer.o (symbol from plugin)
+xTaskCheckForTimeOut                              ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/stream_buffer.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+xTaskCreate                                       ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+xTaskGenericNotify                                ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/stream_buffer.o (symbol from plugin)
+xTaskGenericNotifyFromISR                         ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/stream_buffer.o (symbol from plugin)
+xTaskGetCurrentTaskHandle                         ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/stream_buffer.o (symbol from plugin)
+xTaskGetSchedulerState                            ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/event_groups.o (symbol from plugin)
+xTaskGetTickCount                                 ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+xTaskGetTickCountFromISR                          ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+xTaskIncrementTick                                ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o (symbol from plugin)
+xTaskNotifyStateClear                             ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/stream_buffer.o (symbol from plugin)
+xTaskNotifyWait                                   ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/stream_buffer.o (symbol from plugin)
+xTaskPriorityDisinherit                           ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+xTaskPriorityInherit                              ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+xTaskRemoveFromEventList                          ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+xTaskResumeAll                                    ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/stream_buffer.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/queue.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/event_groups.o (symbol from plugin)
+                                                  ./freertos-code/FreeRTOS/Source/portable/MemMang/heap_4.o (symbol from plugin)
+xTaskResumeFromISR                                ./freertos-code/FreeRTOS/Source/tasks.o (symbol from plugin)
+                                                  ./CMSIS_RTOS/cmsis_os.o (symbol from plugin)

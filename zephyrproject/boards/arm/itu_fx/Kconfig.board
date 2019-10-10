@@ -1,0 +1,5 @@
+# Kconfig - iTU FX Board Configuration
+
+config BOARD_ITU_FX
+	bool "Sysware iTU FX Board"
+	depends on SOC_STM32F407XG

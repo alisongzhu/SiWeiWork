@@ -1,0 +1,8 @@
+*.o
+*.a
+/Debug/
+/Release/
+/.settings/
+
+Core/Inc/build_defs.h
+

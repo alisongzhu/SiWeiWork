@@ -1,0 +1,142 @@
+/*
+ * Copyright (c) 2017, embedjournal.com
+ *
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
+/dts-v1/;
+#include <st/f4/stm32f407Xg.dtsi>
+
+/ {
+	model = "sysware iTU FX board";
+	compatible = "st,itu_fx", "st,stm32f407";
+
+	chosen {
+		zephyr,console = &usart1;
+		zephyr,shell-uart = &usart1;
+		zephyr,sram = &sram0;
+		zephyr,flash = &flash0;
+		zephyr,ccm = &ccm0;
+	};
+
+	leds {
+		compatible = "gpio-leds";
+		led_1: led_1 {
+			gpios = <&gpioa 8 GPIO_DS_DFLT_HIGH>;
+			label = "USER_LED1";
+		};
+		led_2: led_2 {
+			gpios = <&gpiob 4 GPIO_INT_ACTIVE_HIGH>;
+			label = "USER_LED2";
+		};
+		led_3: led_3 {
+			gpios = <&gpioa 15 GPIO_DS_DFLT_LOW>;
+			label = "USER_LED3";
+		};
+	};
+	
+	gpio_keys {
+		compatible = "gpio-keys";
+		button_1: button_1 {
+			label = "Key1";
+			gpios = <&gpioa 11 GPIO_INT_ACTIVE_LOW>;
+		};
+		button_2: button_2 {
+			label = "Key2";
+			gpios = <&gpioa 12 GPIO_INT_ACTIVE_LOW>;
+		};
+		w5500_rst: w5500_rst {
+			label = "W5500_RST";
+			gpios = <&gpiob 0 GPIO_DS_DFLT_HIGH>;
+		};
+		w5500_int: w5500_int {
+			label = "W5500_INT";
+			gpios = <&gpiob 1 GPIO_INT_ACTIVE_LOW>;
+		};
+		/* move this to property of spi node;
+		w5500_cs: w5500_cs {
+			label = "W5500_CS";
+			gpios = <&gpioa 4 GPIO_INT_ACTIVE_LOW>;
+		};
+		*/
+	};
+
+	aliases {
+		led0 = &led_1;
+		led1 = &led_2;
+		led2 = &led_3;
+		sw1 = &button_1;
+		sw2 = &button_2;
+	};
+};
+
+&usart1 {
+	current-speed = <115200>;
+	pinctrl-0 = <&usart1_pins_a>;
+	pinctrl-names = "default";
+	/* label = "UART_CONSOLE"; */
+	status = "ok";
+};
+
+&usart2 {
+	current-speed = <115200>;
+	pinctrl-0 = <&usart2_pins_a>;
+	pinctrl-names = "default";
+	/* label = "UART_RS485"; */
+	status = "ok";
+};
+
+&usart3 {
+	current-speed = <115200>;
+	pinctrl-0 = <&usart3_pins_a>;
+	pinctrl-names = "default";
+	/* label = "UART_POWERBUS"; */
+	status = "ok";
+};
+
+&rtc {
+	status = "ok";
+};
+
+&spi1 {
+	cs-gpios = <&gpioa 4 0>;
+	status = "ok";
+};
+
+&i2c1 {
+	status = "ok";
+};
+
+/*
+&flash0 {
+	partitions {
+		compatible = "fixed-partitions";
+		#address-cells = <1>;
+		#size-cells = <1>;
+
+		boot_partition: partition@0 {
+			label = "mcuboot";
+			reg = <0x000000000 0x0000C000>;
+		};
+		slot0_partition: partition@c000 {
+			label = "image-0";
+			reg = <0x0000C000 0x000069000>;
+		};
+		slot1_partition: partition@75000 {
+			label = "image-1";
+			reg = <0x00075000 0x000069000>;
+		};
+		scratch_partition: partition@de000 {
+			label = "image-scratch";
+			reg = <0x000de000 0x0001e000>;
+		};
+
+#if defined(CONFIG_FS_FLASH_STORAGE_PARTITION)
+		storage_partition: partition@fc000 {
+			label = "storage";
+			reg = <0x000fc000 0x00001000>;
+		};
+#endif
+	};
+};
+*/

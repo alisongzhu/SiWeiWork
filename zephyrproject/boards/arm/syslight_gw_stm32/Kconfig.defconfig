@@ -1,0 +1,20 @@
+# Kconfig - STM32 Minimum Development Board Configuration
+#
+# Copyright (c) 2018, sysware Co. Ltd.
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+
+if BOARD_SYSLIGHT_GW_STM32
+
+config BOARD
+	default "syslight_gw_stm32"
+
+if UART_CONSOLE
+
+config UART_1
+	default y
+
+endif # UART_CONSOLE
+	
+endif # BOARD_SYSLIGHT_GW_STM32

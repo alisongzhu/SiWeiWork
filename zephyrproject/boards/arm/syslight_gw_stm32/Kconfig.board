@@ -1,0 +1,5 @@
+# Kconfig - Syslight Gateway STM32 Board Configuration
+
+config BOARD_SYSLIGHT_GW_STM32
+	bool "Syslight Gateway STM32 Board"
+	depends on SOC_STM32F103X8
